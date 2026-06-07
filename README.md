@@ -54,7 +54,6 @@ Program Studi TRPL — Semester 2
 
 ## 📸 Screenshot
 
-> Tambahkan screenshot project CRUD Bab 14 di sini  
 > `![Preview CRUD](bab-14-crud/screenshot.png)`
 
 ---
