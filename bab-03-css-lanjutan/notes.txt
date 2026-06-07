@@ -1,0 +1,3 @@
+[main 97645a5] feat: tambah tugas bab-02 css dasarecho.
+ 1 file changed, 3 insertions(+)
+ create mode 100644 bab-02-css-dasar/notes.txt
