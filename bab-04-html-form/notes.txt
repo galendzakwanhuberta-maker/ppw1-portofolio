@@ -1,0 +1,3 @@
+[main 493d2c4] feat: tambah tugas bab-03 css lanjutanecho.
+ 1 file changed, 3 insertions(+)
+ create mode 100644 bab-03-css-lanjutan/notes.txt
