@@ -1,0 +1,3 @@
+[main 67f2343] feat: tambah tugas bab-05 flexbox dan gridecho.
+ 1 file changed, 1 insertion(+)
+ create mode 100644 bab-05-flexbox-grid/notes.txt
